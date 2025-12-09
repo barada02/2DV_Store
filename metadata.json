@@ -1,0 +1,5 @@
+{
+  "name": "PixelMart AI",
+  "description": "A 2D retro-style store simulator where you explore, interact with products, and get AI-generated sales pitches.",
+  "requestFramePermissions": []
+}
